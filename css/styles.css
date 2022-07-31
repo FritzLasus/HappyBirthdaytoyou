@@ -1,0 +1,37 @@
+#title{
+  background-color:#F4BFBF;
+  Color: white;
+}
+h1{
+  font-family: 'Rufina',serif;
+  font-weight: bold;
+  font-size: 4rem;
+  margin: 30px;
+  text-align: center;
+
+}
+h2{
+
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-weight: lighter;
+}
+
+#Choose {
+  padding-top: 170px;
+  background-color: #F4BFBF;
+  text-align: center;
+}
+
+.feature-box {
+  margin-top: 80px;
+  font-family: 'Oxygen';
+
+}
+.icon{
+padding-bottom: 2%
+}
+.icon:hover{
+  color: #FFD9C0;
+}

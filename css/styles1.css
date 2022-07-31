@@ -1,0 +1,19 @@
+body{
+  background-color: #87A7B3;
+  text-align: center;
+  color: #F4EEE8
+}
+  h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 4rem;
+    margin: 30px;
+    text-align: center;
+
+  }
+p {
+  font-size: 1.5rem;
+}
+
+h2{padding-top: 30px;
+font-size: 2rem;}
